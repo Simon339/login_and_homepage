@@ -1,4 +1,4 @@
-![maxresdefault](https://github.com/Simon339/login_and_homepage/assets/65837866/08b420c2-8510-41f9-b652-55eac9b2a29e)# Login/SignUp ![maxresdefault](https://github.com/Simon339/login_and_homepage/assets/65837866/9e264d67-d021-40f3-b397-904a78d0717e)
+# Login/SignUp ![maxresdefault](https://github.com/Simon339/login_and_homepage/assets/65837866/9e264d67-d021-40f3-b397-904a78d0717e)
 
 
 
