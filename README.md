@@ -1,16 +1,7 @@
-# my_app2
+![maxresdefault](https://github.com/Simon339/login_and_homepage/assets/65837866/08b420c2-8510-41f9-b652-55eac9b2a29e)# Login/SignUp ![maxresdefault](https://github.com/Simon339/login_and_homepage/assets/65837866/9e264d67-d021-40f3-b397-904a78d0717e)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A Flutter project.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a UI for Login/Signup that will take you to the homepage afterwards.
